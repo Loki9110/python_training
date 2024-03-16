@@ -1,0 +1,14 @@
+l=10
+m="bro"
+n=True
+o=23.5666
+p=656+2j
+print(type(l))
+print(type(m))
+print(type(n))
+print(type(o))
+print(type(p))
+print(int(p))
+print(int("lolz"))
+print(complex(2))
+print(complex(5,3))
